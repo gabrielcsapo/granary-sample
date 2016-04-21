@@ -1,0 +1,13 @@
+{
+  "name": "granary-sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "inherits": "2"
+  },
+  "devDependencies": {
+    "rimraf": "1.x"
+  },
+  "license": "MIT"
+}
