@@ -1,6 +1,6 @@
 # granary-sample
 
-> a sample app to try out ![Granary Server](https://github.com/gabrielcsapo/granary-server)
+> a sample app to try out [Granary Server](https://github.com/gabrielcsapo/granary-server)
 
 ## Usage
 
