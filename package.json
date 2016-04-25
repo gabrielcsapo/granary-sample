@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "install": "granary create -u=http://localhost:8872"
+  },
   "dependencies": {
     "inherits": "2"
   },
