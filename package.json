@@ -10,7 +10,7 @@
     "inherits": "2"
   },
   "devDependencies": {
-    "rimraf": "1.x"
+    "rimraf": "^2.6.1"
   },
   "license": "MIT"
 }
