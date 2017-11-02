@@ -1,3 +1,5 @@
+> DEPRECATED: THIS WILL NO LONGER BE UNDER DEVELOPMENT
+
 # granary-sample
 
 > a sample app to try out [Granary Server](https://github.com/gabrielcsapo/granary-server)
